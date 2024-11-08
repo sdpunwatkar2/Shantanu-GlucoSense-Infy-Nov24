@@ -1,1 +1,1 @@
-# Shantanu-GlucoSense-Infy-Nov24-P
+# Shantanu-GlucoSense-Infy-Nov24
