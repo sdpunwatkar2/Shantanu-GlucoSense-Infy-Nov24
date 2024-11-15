@@ -17,3 +17,11 @@ Model Evaluation: Assess the performance of the models using evaluation metrics 
 
 
 ---
+Libraries and Tools:
+The following Python libraries are essential for model development and analysis:
+
+Pandas: Data manipulation and analysis.
+NumPy: Numerical operations.
+Sklearn: Machine learning algorithms and evaluation metrics.
+Matplotlib: Data visualization.
+Seaborn: Statistical data visualization.
