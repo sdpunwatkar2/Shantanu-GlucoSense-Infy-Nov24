@@ -15,5 +15,5 @@ Model Development: Apply various machine learning algorithms to predict diabetes
 
 Model Evaluation: Assess the performance of the models using evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-Feature Importance: Identify the most significant factors contributing to diabetes risk.
+
 ---
