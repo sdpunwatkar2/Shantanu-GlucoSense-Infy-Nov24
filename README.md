@@ -25,3 +25,6 @@ NumPy: Numerical operations.
 Sklearn: Machine learning algorithms and evaluation metrics.
 Matplotlib: Data visualization.
 Seaborn: Statistical data visualization.
+
+---
+Outcome: The goal is to develop a model which helps better understand the relationship between lifestyle and diabetes and help predict whether a patient has diabetes, is pre-diabetic or healthy.
